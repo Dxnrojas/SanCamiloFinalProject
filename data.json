@@ -1,0 +1,95 @@
+{ "productos":
+    [
+        {
+            "id": 1,
+            "img": "https://github.com/Dxnrojas/SanCamiloFinalProject/blob/main/Parcial-I/resources/producto2.png",
+            "name": "Mini Fluffys Biscoff",
+            "price": "$23.800"
+        },
+    
+        {
+            "id": 2,
+            "img": "https://github.com/Dxnrojas/SanCamiloFinalProject/blob/main/Parcial-I/resources/producto1.png",
+            "name": "Mini Fluffys Clasicos",
+            "price": "$19.800"
+        },
+    
+        {
+            "id": 3,
+            "name": "Mini Fluffys de Fresa",
+            "price": "$22.900"
+        },
+    
+        {
+            "id": 4,
+            "name": "Baggel de Queso Crema",
+            "price": "$17.500"
+        },
+    
+        {
+            "id": 5,
+            "name": "Mini Fluffys Nutella",
+            "price": "$22.900"
+        },
+    
+        {
+            "id": 6,
+            "name": "Croissant de Tocineta",
+            "price": "$23.800"
+        },
+    
+        {
+            "id": 7,
+            "name": "Desayuno Américano",
+            "price": "$19.800"
+        },
+    
+        {
+            "id": 8,
+            "name": "Croissant Jamón",
+            "price": "$28.000"
+        },
+    
+        {
+            "id": 9,
+            "name": "Patty Croissant",
+            "price": "$28.500"
+        },
+    
+        {
+            "id": 10,
+            "name": "Sándwich Caprese",
+            "price": "$26.000"
+        },
+
+        {
+            "id": 11,
+            "name": "Capuccino Biscoff",
+            "price": "$15.600"
+        },
+
+        {
+            "id": 12,
+            "name": "Mocaccino",
+            "price": "$11.700"
+        },
+
+        {
+            "id": 13,
+            "name":"Capuccino",
+            "price": "$9.800"
+        },
+
+        {
+            "id": 14,
+            "name": "Capuccino Baileys",
+            "price": "$15.800"
+        },
+
+        {
+            "id": 15,
+            "name": "Cafe Latte",
+            "price": "$9.800"
+        }
+    ]
+}
